@@ -1,0 +1,23 @@
+{
+  "name": "dto-library-example",
+  "version": "1.0.0",
+  "description": "an example library to demonstrate dto sharing",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahJYoung/dto-library-example.git"
+  },
+  "keywords": [
+    "dto",
+    "test"
+  ],
+  "author": "Noah Young",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoahJYoung/dto-library-example/issues"
+  },
+  "homepage": "https://github.com/NoahJYoung/dto-library-example#readme"
+}
